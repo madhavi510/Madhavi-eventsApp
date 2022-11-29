@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.event-img {
+  height: 320px;
+  width: 320px;
+}
+
+.eventName {
+  font-size: 20px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+
+.place {
+  font-size: 20px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+.activeClass {
+  border: 1px solid #2dd4bf;
+}
+
+.eventItemsList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+button {
+  border: none;
+  background-color: transparent;
+}

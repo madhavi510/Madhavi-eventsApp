@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  background-color: #475569;
+  background-size: cover;
+}
+.title {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'roboto';
+}
+.eventsList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-right: 30px;
+}
+.ActiveEventRegistrationDetails {
+  display: flex;
+  flex-direction: column;
+}

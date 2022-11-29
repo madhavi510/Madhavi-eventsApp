@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.registerImage {
+  height: 350px;
+}
+.eventRegistration-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 80px;
+  margin-left: 30px;
+  padding: 20px;
+}
+.text {
+  font-size: 20px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+
+.text-data {
+  font-size: 30px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+
+.btn {
+  background-color: #0967d2;
+  height: 40px;
+  width: 320px;
+  color: #ffffff;
+  border-radius: 10px;
+}
+.registeredImage {
+  height: 350px;
+}
+.registeredClosedImage {
+  height: 350px;
+}
